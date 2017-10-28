@@ -1,0 +1,13 @@
+# ignore the compiled output
+.gradle
+build
+bin
+
+#ignore jenv
+.java-version
+
+# ignore project settings files
+.settings/
+.metadata/
+*.project
+*.classpath

@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: com.cars.framework:cars-framework-core:2.1.2-RELEASE">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.cars.framework/cars-framework-core/2.1.2-RELEASE/aff390672e2c2cec5d68ca4ecec2406840272ff7/cars-framework-core-2.1.2-RELEASE.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.cars.framework/cars-framework-core/2.1.2-RELEASE/2b59a23728d61faa2631dba8e8be6ab7d143e0eb/cars-framework-core-2.1.2-RELEASE-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: org.apache.wink:wink-client:1.4">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.apache.wink/wink-client/1.4/236afba302284da7988a971157a91a1875dcad60/wink-client-1.4.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.apache.wink/wink-client/1.4/faabf76cba69b060e15f5665590bcdd108055082/wink-client-1.4-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
